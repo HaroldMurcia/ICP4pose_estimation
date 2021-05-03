@@ -12,4 +12,5 @@ To run this repository you need to download the Kitti databases from the followi
 
 ## let's start 
  cd ICP-kitti
+ 
  python3 RosIcp1kitti.py
