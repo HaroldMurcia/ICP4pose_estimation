@@ -11,6 +11,8 @@ To run this repository you need to download the Kitti databases from the followi
 - [sklearn.neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
 
 ## let's start 
+```
  cd ICP-kitti
  
  python3 RosIcp1kitti.py
+ ```
